@@ -1,0 +1,5 @@
+train: train_plate_only/images
+val: valid_plate_only/images
+
+nc: 1
+names: ['plate']

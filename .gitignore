@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Model weights
+*.pt
+*.pth
+*.weights
+*.h5
+*.onnx
+*.bin
+*.safetensors
+
+# Misc
+.DS_Store
+*.log
